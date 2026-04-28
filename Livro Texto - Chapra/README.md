@@ -7,7 +7,7 @@ Esta pasta reúne informações relacionadas ao livro-texto base utilizado como 
 
 
 
-📚 \**Livro-texto base:** \[Acessar pelo Google Drive](https://drive.google.com/drive/folders/1Fpaj27qP8IOPpjrUnEA5ajAVdyMaOlHU?usp=drive\_link)
+📚 **Livro-texto base:** \[Acessar pelo Google Drive](https://drive.google.com/drive/folders/1Fpaj27qP8IOPpjrUnEA5ajAVdyMaOlHU?usp=drive\_link)
 
 
 
