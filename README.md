@@ -127,14 +127,6 @@ A monitora tentará estar presente nas aulas durante as **quartas-feiras** e **s
 
 ---
 
-## 📱 Contato
-
-Para dúvidas, orientações, envio de materiais ou agendamento de atendimento, entre em contato pelo WhatsApp ou Telegram:
-
-📱 **(83) 99388-4604**
-
----
-
 ## ⚠️ Observação importante
 
 Este repositório é privado e destinado exclusivamente ao apoio acadêmico dos alunos da disciplina de **Métodos Numéricos para Engenharia Química**.
