@@ -1,5 +1,7 @@
 # 🧮📚 Monitoria de Métodos Numéricos - Engenharia Química/UFCG
 
+<img src="figuras/banner_monitoria.png" alt="Banner da Monitoria de Métodos Numéricos" width="100%">
+
 Repositório privado destinado à organização dos materiais de apoio da monitoria da disciplina de **Métodos Numéricos para Engenharia Química** da **Universidade Federal de Campina Grande — UFCG**, ministrada pelo **Prof. Antônio Tavernard**.
 
 ---
