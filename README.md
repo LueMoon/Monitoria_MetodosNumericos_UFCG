@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮📚 Monitoria de Métodos Numéricos - Engenharia Química/UFCG
 
 <p align="center">
@@ -140,3 +141,4 @@ Os materiais aqui disponibilizados têm finalidade didática e complementar, nã
 **Monitoria de Métodos Numéricos**  
 Engenharia Química — UFCG  
 Monitora: **Luellen Pereira**
+=======
