@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧮📚 Monitoria de Métodos Numéricos - Engenharia Química/UFCG
 
 <p align="center">
