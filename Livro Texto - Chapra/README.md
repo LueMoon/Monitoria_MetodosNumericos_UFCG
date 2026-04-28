@@ -1,18 +1,50 @@
-\---
+\# 📘 Livro-texto base — Chapra
 
 
 
-\## 📘 Livro-texto base
+Esta pasta reúne informações relacionadas ao livro-texto base utilizado como apoio à disciplina de \*\*Métodos Numéricos para Engenharia Química\*\*.
 
 
 
-A disciplina utiliza como uma das principais referências o livro \*\*Métodos Numéricos para Engenharia\*\*, de \*\*Chapra e Canale\*\*.
+\## 📚 Referência principal
 
 
 
-A pasta abaixo será utilizada para organizar capítulos indicados, orientações de leitura, resumos autorais e observações da monitoria:
+CHAPRA, Steven C.; CANALE, Raymond P. \*\*Métodos Numéricos para Engenharia\*\*.
 
 
 
-\[`Livro Texto - Chapra`](./Livro%20Texto%20-%20Chapra/)
+\## 🔗 Acesso ao material
+
+
+
+📚 \*\*Livro-texto base:\*\* \[Acessar pelo Google Drive](https://drive.google.com/drive/folders/1Fpaj27qP8IOPpjrUnEA5ajAVdyMaOlHU?usp=drive\_link)
+
+
+
+> O acesso ao material deve respeitar as condições de uso, direitos autorais e permissões institucionais.
+
+
+
+\## 🧭 Capítulos e temas
+
+
+
+| Tema | Capítulo/Seção | Observações |
+
+|---|---|---|
+
+| Erros numéricos | A preencher | A preencher |
+
+| Raízes de equações | A preencher | A preencher |
+
+| Sistemas lineares | A preencher | A preencher |
+
+| Interpolação | A preencher | A preencher |
+
+| Regressão | A preencher | A preencher |
+
+| Integração numérica | A preencher | A preencher |
+
+| Equações diferenciais ordinárias | A preencher | A preencher |
 

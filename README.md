@@ -31,6 +31,7 @@ Os materiais estão organizados por tipo de conteúdo, facilitando o acesso aos 
 | `Listas de Exercícios/` | Listas, exercícios propostos e possíveis resoluções comentadas |
 | `Videoaulas e Links/` | Links de videoaulas, canal da monitora e materiais complementares |
 | `Informações da Monitoria/` | Horários de atendimento, contatos e orientações gerais |
+| `Livro Texto - Chapra/` | Referência do livro-texto base, link de acesso e orientações de estudo |
 
 ---
 
@@ -79,6 +80,17 @@ A pasta de listas de exercícios será utilizada para organizar listas, questõe
 Acesse em:
 
 [`Listas de Exercícios`](./Listas%20de%20Exercícios/)
+
+
+---
+
+## 📘 Livro-texto base
+
+A disciplina utiliza como uma das principais referências o livro **Métodos Numéricos para Engenharia**, de **Chapra e Canale**.
+
+A pasta abaixo reúne orientações de leitura, capítulos indicados e o link de acesso ao material:
+
+[`Livro Texto - Chapra`](./Livro%20Texto%20-%20Chapra/)
 
 ---
 
