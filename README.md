@@ -18,7 +18,7 @@ A proposta é facilitar o acesso aos conteúdos e oferecer suporte complementar 
 
 ## 📂 Organização do repositório
 
-Os materiais estão organizados por tipo de conteúdo, facilitando o acesso aos códigos, slides, listas de exercícios e videoaulas da monitoria.
+Os materiais estão organizados por tipo de conteúdo, facilitando o acesso aos códigos, slides, listas de exercícios, videoaulas e informações gerais da monitoria.
 
 ### Pastas principais
 
@@ -28,7 +28,7 @@ Os materiais estão organizados por tipo de conteúdo, facilitando o acesso aos 
 | `Códigos - Unidade 2/` | Códigos referentes aos conteúdos da segunda unidade |
 | `Slides/` | Slides e materiais apresentados ou indicados durante a disciplina |
 | `Listas de Exercícios/` | Listas, exercícios propostos e possíveis resoluções comentadas |
-| `Videoaulas e Links/` | Links de videoaulas, canal da monitoria e materiais complementares |
+| `Videoaulas e Links/` | Links de videoaulas, canal da monitora e materiais complementares |
 | `Informações da Monitoria/` | Horários de atendimento, contatos e orientações gerais |
 
 ---
@@ -94,15 +94,44 @@ Nesta seção serão disponibilizados links de videoaulas, materiais externos e 
 Os links complementares estarão disponíveis na pasta:
 
 [`Videoaulas e Links`](./Videoaulas%20e%20Links/)
+
 ---
 
 ## 🕒 Atendimento da monitoria
 
-As informações sobre horários de atendimento, formas de contato e possibilidade de agendamento estarão disponíveis na pasta:
+A monitoria poderá ocorrer de forma **remota** ou **presencial**, conforme a disponibilidade da monitora e a necessidade dos alunos.
 
-[`Informações da Monitoria`](./Informações%20da%20Monitoria/)
+### 💬 Atendimento remoto
 
-Caso o aluno precise de atendimento em outro horário, poderá entrar em contato para verificar disponibilidade.
+O atendimento remoto poderá ser realizado em qualquer horário à noite, mediante contato prévio pelo WhatsApp ou Telegram.
+
+📱 **WhatsApp:** (83) 99388-4604  
+💬 **Telegram:** [@Lprrpl](https://t.me/Lprrpl)
+
+### 📍 Atendimento presencial
+
+O atendimento presencial ocorrerá no **LENP II - UFCG**, mediante agendamento prévio pelo WhatsApp.
+
+| Dia | Horário | Local |
+|---|---|---|
+| Segunda-feira | 10h às 12h | LENP II - UFCG |
+| Terça-feira | 10h às 12h | LENP II - UFCG |
+| Quinta-feira | 8h às 10h | LENP II - UFCG |
+| Sexta-feira | 8h às 10h | LENP II - UFCG |
+
+### 👩‍🏫 Acompanhamento em aula
+
+A monitora tentará estar presente nas aulas durante as **quartas-feiras** e **sextas-feiras**, para acompanhamento, observação e apoio aos alunos durante o andamento da disciplina.
+
+> Recomenda-se entrar em contato previamente pelo WhatsApp para confirmar disponibilidade, especialmente para atendimentos presenciais.
+
+---
+
+## 📱 Contato
+
+Para dúvidas, orientações, envio de materiais ou agendamento de atendimento, entre em contato pelo WhatsApp ou Telegram:
+
+📱 **(83) 99388-4604**
 
 ---
 
@@ -117,4 +146,5 @@ Os materiais aqui disponibilizados têm finalidade didática e complementar, nã
 ## 👩‍💻 Monitoria
 
 **Monitoria de Métodos Numéricos**  
-Engenharia Química — UFCG
+Engenharia Química — UFCG  
+Monitora: **Luellen Pereira**
