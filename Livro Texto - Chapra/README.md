@@ -12,28 +12,3 @@ Esta pasta reúne informações relacionadas ao livro-texto base utilizado como 
 
 
 > O acesso ao material deve respeitar as condições de uso, direitos autorais e permissões institucionais.
-
-
-
-\## 🧭 Capítulos e temas
-
-
-
-| Tema | Capítulo/Seção | Observações |
-
-|---|---|---|
-
-| Erros numéricos | A preencher | A preencher |
-
-| Raízes de equações | A preencher | A preencher |
-
-| Sistemas lineares | A preencher | A preencher |
-
-| Interpolação | A preencher | A preencher |
-
-| Regressão | A preencher | A preencher |
-
-| Integração numérica | A preencher | A preencher |
-
-| Equações diferenciais ordinárias | A preencher | A preencher |
-
