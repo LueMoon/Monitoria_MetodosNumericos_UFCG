@@ -5,7 +5,7 @@
   <img src="./Banner_monitoria.png" alt="Banner da Monitoria de Métodos Numéricos" width="100%">
 </p>
 
-Repositório privado destinado à organização de materiais de apoio à monitoria da disciplina de **Métodos Numéricos para Engenharia Química** da **Universidade Federal de Campina Grande - UFCG**, ministrada pelo **Prof. Antônio Tavernard**.
+Repositório destinado à organização de materiais de apoio à monitoria da disciplina de **Métodos Numéricos para Engenharia Química** da **Universidade Federal de Campina Grande - UFCG**, ministrada pelo **Prof. Antônio Tavernard**.
 
 ---
 
