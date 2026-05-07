@@ -123,7 +123,7 @@ O atendimento remoto poderá ser realizado em qualquer horário à noite, median
 
 ### 📍 Atendimento presencial
 
-O atendimento presencial ocorrerá no **LENP II - UFCG**, mediante agendamento prévio pelo WhatsApp.
+O atendimento presencial ocorrerá no **LENP II - UFCG**.
 
 | Dia | Horário | Local |
 |---|---|---|
